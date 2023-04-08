@@ -2,3 +2,5 @@ MOVIES                  -                   Hero
 ================================================
 RRR                     -                   NTR,Ram
 AVATHAR                 -                   Blue Manishi
+BAHUBALI                -                   Prabhas
+pusha                   -                   Allu Arjun
